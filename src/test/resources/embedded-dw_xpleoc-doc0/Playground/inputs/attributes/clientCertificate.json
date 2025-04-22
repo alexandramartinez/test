@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 69,
+  "criticalExtensionOIDs": [
+    "molestie",
+    "dolor",
+    "pulvinar"
+  ],
+  "extendedKeyUsage": [
+    "libero",
+    "nisi",
+    "Nam"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "erat"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Alfonzo",
+      "type": 61
+    }
+  ],
+  "issuerDN": {
+    "commonName": "libero",
+    "name": "Ali"
+  },
+  "issuerUniqueID": [
+    true,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Anabel"
+  },
+  "keyUsage": [
+    false,
+    true
+  ],
+  "name": "Abbie",
+  "nonCriticalExtensionOIDs": [
+    "sodales",
+    "sed"
+  ],
+  "publicKey": {
+    "algorithm": "ipsum",
+    "modulus": 80,
+    "params": 32,
+    "publicKey": "sodales"
+  },
+  "serialNumber": 74,
+  "serialNumberObject": {
+    "serialNumber": 43
+  },
+  "sigAlgName": "consectetur",
+  "sigAlgOID": "risus",
+  "subjectAlternativeNames": [
+    {
+      "name": "Burt",
+      "type": 38
+    }
+  ],
+  "subjectDN": {
+    "commonName": "lectus",
+    "name": "Alda"
+  },
+  "subjectX500Principal": {
+    "name": "Claude"
+  },
+  "type": "elit",
+  "version": 85
+}
